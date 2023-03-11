@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("../Images/GoaUniversity.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.A {
+    text-align: center;
+}
+
+.A h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 3.5rem;
+    color: black;
+    padding-top: 3rem;
+    /* margin-top: 1rem; */
+}
+
+.B {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 3rem;
+    border: .2rem solid black;
+    border-radius: 1rem;
+    background-color: rgba(255, 255, 255, 0.76);
+    color: black;
+}
+
+.B h1 {
+    padding-top: 1rem   ;
+    /* text-decoration: underline; */
+    /* width: auto; */
+    /* border: .2rem solid black ; */
+    text-align: center;
+    font-weight: 600;
+}
+
+.BT {
+
+    text-align: center;
+
+}
+
+
+.B h2{
+    font-weight: bold;
+}
+
+.B span{
+    font-weight: 100;
+}
+
+td{
+    padding-left: 0rem;
+    /* padding-right: 1rem; */
+}
